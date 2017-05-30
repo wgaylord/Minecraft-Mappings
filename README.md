@@ -5,3 +5,6 @@ All mappings are dervived from MCP mappings. But are for version there are no MC
 
 
 Head over to ##MCDeobfuscate on freenode to talk about it. :D
+
+
+# ONLY PARTIAL MAPPINGS. AUTO GENERATED. DO NOT EXPECT THEM RO BE PWRFECT OR WORK AT ALL.
