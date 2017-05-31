@@ -1041,7 +1041,6 @@ CL: aie net/minecraft/item/ItemFishFood
 CL: aif net/minecraft/item/ItemFishingRod
 CL: ail net/minecraft/item/Item
 CL: ain net/minecraft/item/ItemStack
-CL: aiq net/minecraft/village/MerchantRecipeList
 CL: ait net/minecraft/item/ItemLingeringPotion
 CL: ajb net/minecraft/item/ItemPotion
 CL: ajc net/minecraft/item/EnumRarity
